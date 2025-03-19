@@ -32,7 +32,7 @@ O jogo consiste em encontrar os pares de emojis ocultos dentro de um tabuleiro. 
 ## 🔧 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/jogo-da-memoria.git
+   git clone https://github.com/wallaskoelho/DIO-Jogo-da-Memoria.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
